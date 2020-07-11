@@ -1,2 +1,2 @@
-# EmotionClassification
-All steps are in this project.
+# Emotion Classification
+NLP data pre-processing, model construction and training are in this project.
