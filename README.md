@@ -1,2 +1,2 @@
 # Emotion Classification
-NLP data pre-processing, model construction and training are in this project.
+NLP data pre-processing, models construction and training are in this project.
